@@ -22,12 +22,13 @@ I´m developing my coding skills at 42 Urduliz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;     
 </div>
+<br>
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tentaclepurple&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tentaclepurple&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tentaclepurple&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tentaclepurple&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <!--
 **tentaclepurple/tentaclepurple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
