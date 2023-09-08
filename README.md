@@ -19,9 +19,9 @@ I´m developing my coding skills at 42 Urduliz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="PostreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <i class="devicon-photoshop-plain" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <i class="devicon-premierepro-plain" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;></i>
-  <i class="devicon-aftereffects-plain" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;></i>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"/>&nbsp;></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;></i>      
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tentaclepurple&theme=dark&background=000000)](https://git.io/streak-stats)
