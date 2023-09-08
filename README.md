@@ -19,7 +19,7 @@ I´m developing my coding skills at 42 Urduliz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="PostreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <i class="devicon-photoshop-plain" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;></i>
+  <i class="devicon-photoshop-plain" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <i class="devicon-premierepro-plain" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;></i>
   <i class="devicon-aftereffects-plain" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;></i>      
 </div>
