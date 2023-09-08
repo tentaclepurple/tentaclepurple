@@ -4,6 +4,8 @@ I´m developing my coding skills at 42 Urduliz
 - 🌱 I’m currently learning C, C++, Python, SQL, Mongodb and Cloud Architecture
 
 
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
