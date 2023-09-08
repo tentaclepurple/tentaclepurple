@@ -23,6 +23,8 @@ I´m developing my coding skills at 42 Urduliz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;     
 </div>
 
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tentaclepurple&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
