@@ -1,5 +1,5 @@
 ### Hi there I´m Iban 👋
-I´m developing my coding skills at 42 Urduliz
+Developing my coding skills at 42 Urduliz
 
 - 🌱 I’m currently learning C, C++, Python, SQL, Mongodb and Cloud Architecture
 - 📫 How to reach me: ibanmontero@gmail.com
