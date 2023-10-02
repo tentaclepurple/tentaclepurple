@@ -4,6 +4,7 @@ Developing my coding skills at 42 Urduliz
 - 🌱 I’m currently learning C, C++, Python, SQL, Mongodb and Cloud Architecture
 - 📫 How to reach me: ibanmontero@gmail.com
 
+If you´re a student and have any question I´d be happy to help.
 
 
 
