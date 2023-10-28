@@ -33,12 +33,14 @@ If you´re a student and have any question I´d be happy to help.
 
 |C|Python|SQL|
 |:----|:-------------|:-------|
-|  <p><a href="https://github.com/tentaclepurple/42_Pipex" >Pipex</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
-|  <p><a href="https://github.com/tentaclepurple/42_Pipex" >Pipex</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
-|  <p><a href="https://github.com/tentaclepurple/42_Pipex" >Pipex</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
-|  <p><a href="https://github.com/tentaclepurple/42_Pipex" >Pipex</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
-|  <p><a href="https://github.com/tentaclepurple/42_Pipex" >Pipex</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
-
+| <!-- 1 --> <p><a href="https://github.com/tentaclepurple/42_Pipex" >Pipex</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
+| <!-- 2 --> <p><a href="https://github.com/tentaclepurple/42_Push_swap" >Push_swap</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
+| <!-- 3 -->  <p><a href="https://github.com/tentaclepurple/42_Philosophers" >Philosophers</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
+| <!-- 4 --> <p><a href="https://github.com/tentaclepurple/42_So_long" >So_long</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
+| <!-- 5 --> <p><a href="https://github.com/tentaclepurple/42_Get_next_line" >Get_next_line</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
+| <!-- 6 --> <p><a href="https://github.com/tentaclepurple/42_Ft_printf" >Ft_printf</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
+| <!-- 7 --> <p><a href="https://github.com/tentaclepurple/42_Libft" >Libft</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
+| <!-- 8 --> <p><a href="https://github.com/tentaclepurple/42_Get_next_line" >Get_next_line</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tentaclepurple&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 
