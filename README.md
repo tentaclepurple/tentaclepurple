@@ -29,9 +29,13 @@ If you´re a student and have any question I´d be happy to help.
 </div>
 <br>
 
+### Repositories by theme
+
+|C|Python/Data science/ML|SQL|
+|:----|:-------------|:-------|
+|  <p><a href="https://github.com/tentaclepurple/42_Pipex" >Pipex</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tentaclepurple&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tentaclepurple&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 
