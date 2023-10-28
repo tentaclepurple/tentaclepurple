@@ -31,7 +31,7 @@ If you´re a student and have any question I´d be happy to help.
 
 ### Repositories by theme
 
-|C|Python\nData science/ML|SQL|
+|C|Python|SQL|
 |:----|:-------------|:-------|
 |  <p><a href="https://github.com/tentaclepurple/42_Pipex" >Pipex</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
 |  <p><a href="https://github.com/tentaclepurple/42_Pipex" >Pipex</a></p>  |  <p><a href="https://github.com/tentaclepurple/PY_AI_workshop_Vicomtech" >IA Vicomtech</a></p>  |  <p><a href="https://github.com/tentaclepurple/SQL_Standford" >SQL Stanford</a></p>  |
