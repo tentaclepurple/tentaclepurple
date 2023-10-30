@@ -40,8 +40,8 @@
 | 14 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_discovery_handwash_pract" > Hand wash discov. practice </a></p>  | <!-- SQL --> <p><a href=" " > </a></p>  | <!-- more --> |
 | 15 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_ml_history_practice" > Ml in history pract </a></p>  | <!-- SQL --> <p><a href=" " > </a></p>  | <!-- more --> |
 | 16 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_naive_bees_practice" > PY Naive bees 1 practice </a></p>  | <!-- SQL --> <p><a href=" " > </a></p>  | <!-- more --> |
-| 17 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_ML_naive_bees2_practice" > PY ML Naive bees 2 </a></p>  | <!-- SQL --> <p><a href=" " > </a></p>  | <!-- more --> |
-| 18 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_DL_naive_bees3_practice" > PY DL Naive bees 3 </a></p>  | <!-- SQL --> <p><a href=" " > </a></p>  | <!-- more --> |
+| 17 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_ML_naive_bees2_practice" > PY ML Naive bees 2 pract </a></p>  | <!-- SQL --> <p><a href=" " > </a></p>  | <!-- more --> |
+| 18 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_DL_naive_bees3_practice" > PY DL Naive bees 3 pract </a></p>  | <!-- SQL --> <p><a href=" " > </a></p>  | <!-- more --> |
 | 19 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p>  | <!-- more --> |
 | 20 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p>  | <!-- more --> |
 
