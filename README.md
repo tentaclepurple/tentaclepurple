@@ -42,8 +42,10 @@
 | 16 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_naive_bees_practice" > PY Naive bees 1 practice </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> | | <!-- more --> |
 | 17 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_ML_naive_bees2_practice" > PY ML Naive bees 2 pract </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
 | 18 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_DL_naive_bees3_practice" > PY DL Naive bees 3 pract </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
-| 19 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
+| 19 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_ML_class_tweets_pract" > PY ML tweets pract </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
 | 20 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
+| 21 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
+| 22 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tentaclepurple&theme=shadow_blue&show_icons=true)
 <!--
