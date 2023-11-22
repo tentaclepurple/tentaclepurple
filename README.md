@@ -44,8 +44,12 @@
 | 18 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/DL_naive_bees3_practice" > DL Naive bees 3 pract </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
 | 19 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/ML_class_tweets_pract" > ML tweets pract </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
 | 20 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_ML_car_insurances_pract" > ML car insurance </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
-| 21 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
+| 21 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="https://github.com/tentaclepurple/ML_reducing_traffic_prct" > ML reducing traffic mort pract </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
 | 22 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
+| 22 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
+| 23 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
+| 24 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
+| 25 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tentaclepurple&theme=shadow_blue&show_icons=true)
 <!--
