@@ -18,7 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" title="After Effects" alt="After Effects" width="40" height="40"/>&nbsp;     
 </div>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tentaclepurple&show_icons=true&theme=shadowblue)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tentaclepurple&show_icons=true&theme=shadow_blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tentaclepurple&hide_progress=true&theme=shadow_blue)
+
+
 ### Repositories by theme
 
 | | C | Python | SQL | C++ | More |
