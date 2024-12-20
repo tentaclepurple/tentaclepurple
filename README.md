@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" title="After Effects" alt="After Effects" width="40" height="40"/>&nbsp;     
 </div>
 <br>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tentaclepurple&show_icons=true&theme=shadowblue)
 ### Repositories by theme
 
 | | C | Python | SQL | C++ | More |
@@ -51,7 +51,9 @@
 | 24 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
 | 25 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tentaclepurple&theme=shadow_blue&show_icons=true)
+
 <!--
 **tentaclepurple/tentaclepurple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
