@@ -19,7 +19,6 @@
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tentaclepurple&show_icons=true&theme=shadow_blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tentaclepurple&hide_progress=true&theme=shadow_blue)
 
 
@@ -56,7 +55,7 @@
 | 25 | <!-- C--> <p><a href="" ></a></p>  | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  | <!-- more --> |
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tentaclepurple&theme=shadow_blue&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tentaclepurple&theme=shadow_blue&show_icons=true)
 
 <!--
 **tentaclepurple/tentaclepurple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
