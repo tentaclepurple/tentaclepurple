@@ -35,7 +35,6 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" title="Gradio" alt="Gradio" width="40" height="40"/>&nbsp;
-
 <br>          
 
 # DataBases
