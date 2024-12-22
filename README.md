@@ -3,8 +3,9 @@
 ### 🧠 [Multilayer Perceptron](https://github.com/tentaclepurple/42_multilayer_perceptron)
 
 #### Exploring Neural Networks with a Custom Implementation and Interactive Playground App
+<br>
 
----
+___
 <br>
 
 # Languages / Libraries / Frameworks
