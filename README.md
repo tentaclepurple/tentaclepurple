@@ -4,12 +4,13 @@
 
 #### Exploring Neural Networks with a Custom Implementation and Interactive Playground App
 
-I’ve developed a custom Multilayer Perceptron (MLP) from scratch, implementing advanced mathematics like partial derivatives, gradient descent, activation functions, loss optimization, and linear algebra (No high-level libraries like TensorFlow or PyTorch)
-This project includes a fully implemented MLPSequential class, with key features such as flexible layer configuration, He initialization, backpropagation, and tools for monitoring training progress.
+* I’ve developed a custom Multilayer Perceptron (MLP) from scratch, implementing advanced mathematics like partial derivatives, gradient descent, activation functions, loss optimization, and linear algebra (No high-level libraries like TensorFlow or PyTorch)
 
-📊 I’ve also created an interactive app for tumor prediction, where users can experiment with the model to classify breast tumors as malignant or benign using medical dataset features.
+* This project includes a fully implemented MLPSequential class, with key features such as flexible layer configuration, He initialization, backpropagation, and tools for monitoring training progress.
 
-💡 Building this from scratch has deepened my understanding of neural network fundamentals and allowed for tailored customization.
+* I’ve also created an interactive app for tumor prediction, where users can experiment with the model to classify breast tumors as malignant or benign using medical dataset features.
+
+* Building this from scratch has deepened my understanding of neural network fundamentals and allowed for tailored customization.
 
 Feel free to explore the project’s repository or reach out with any questions!
 
