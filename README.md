@@ -1,4 +1,8 @@
-## 🧠 [Exploring Neural Networks with a Custom Implementation and Interactive Playground App](https://github.com/tentaclepurple/42_multilayer_perceptron)
+# Project Sneak Peek
+
+### 🧠 [Multilayer Perceptron](https://github.com/tentaclepurple/42_multilayer_perceptron)
+
+#### Exploring Neural Networks with a Custom Implementation and Interactive Playground App
 
 I’ve developed a custom Multilayer Perceptron (MLP) from scratch, implementing advanced mathematics like partial derivatives, gradient descent, activation functions, loss optimization, and linear algebra (No high-level libraries like TensorFlow or PyTorch)
 This project includes a fully implemented MLPSequential class, with key features such as flexible layer configuration, He initialization, backpropagation, and tools for monitoring training progress.
@@ -10,9 +14,9 @@ This project includes a fully implemented MLPSequential class, with key features
 Feel free to explore the project’s repository or reach out with any questions!
 
 ---
+<br>
 
-
-## Languages / Libraries / Frameworks
+# Languages / Libraries / Frameworks
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -42,7 +46,7 @@ Feel free to explore the project’s repository or reach out with any questions!
 
 <br>          
 
-## DataBases
+# DataBases
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="PostreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
@@ -54,7 +58,7 @@ Feel free to explore the project’s repository or reach out with any questions!
   <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" title="SnowFlake" alt="SnowFlake" width="40" height="40"/>&nbsp;
 <br>     
 
-## Tools / Cloud
+# Tools / Cloud
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -77,7 +81,7 @@ Feel free to explore the project’s repository or reach out with any questions!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tentaclepurple&hide_progress=true&theme=shadow_blue)
 <br>
 
-## 42 Common Core Projects
+# 42 Common Core Projects
 
 | | C | C++ | More |
 |---|:---|:--|:---|
@@ -94,7 +98,7 @@ Feel free to explore the project’s repository or reach out with any questions!
 
 <br>
 
-## AI, Data and More
+# AI, Data and More
 
 | | Python | SQL | More |
 |---|:---|:--|:---|
