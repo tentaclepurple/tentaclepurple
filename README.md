@@ -1,5 +1,10 @@
 # Project Sneak Peek
 
+### 👁️ [Leaffliction](https://github.com/tentaclepurple/42_Leaffliction)
+
+#### Computer Vision model made with Convolutional Neural Network for leaf disease identification
+<br>
+
 ### 🧠 [Multilayer Perceptron](https://github.com/tentaclepurple/42_multilayer_perceptron)
 
 #### Exploring Neural Networks with a Custom Implementation and Interactive Playground App
