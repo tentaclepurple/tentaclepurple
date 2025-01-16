@@ -2,7 +2,7 @@
 
 ### 🍵 [Matcha](https://github.com/tentaclepurple/42_matcha/)
 
-### Social Network App made with Svelte, Flask, MongoDB and Docker with AI powered users that may start a relationship with you...
+#### Social Network App made with Svelte, Flask, MongoDB and Docker featuring AI powered users that may start a relationship with you...
 <br>
 
 ### 👁️ [Leaffliction](https://github.com/tentaclepurple/42_Leaffliction)
