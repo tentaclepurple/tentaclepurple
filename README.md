@@ -1,5 +1,10 @@
 # Project Sneak Peek
 
+### 🌌 [Ftl_Quantum](https://github.com/tentaclepurple/42_Ftl_quantum)
+
+#### Exploring Quantum Computing algorithms through the IBM Qiskit platform
+<br>
+
 ### 🍵 [Matcha](https://github.com/tentaclepurple/42_matcha/)
 
 #### Social Network App made with Svelte, Flask, MongoDB and Docker featuring AI powered users that may start a relationship with you...
