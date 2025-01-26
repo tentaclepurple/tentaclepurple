@@ -1,11 +1,11 @@
 ## 🗞️ Project Sneak Peek
 
-| Project | Description | Skills |
-| ------- | ----------- | ------ |
-| 🌌 [Ftl_Quantum](https://github.com/tentaclepurple/42_Ftl_quantum) | Exploring Quantum Computing algorithms through the IBM Qiskit platform | Qiskit, Python, Quantum Computing, Jupyter, Mathematics |
-| 🍵 [Matcha](https://github.com/tentaclepurple/42_matcha/) | Social Network App made with Svelte, Flask, MongoDB and Docker featuring AI powered users that may start a relationship with you... | Python, Flask, MongoDB, Svelte, Backend, API REST, Postman, AI |
-| 👁️ [Leaffliction](https://github.com/tentaclepurple/42_Leaffliction) | Computer Vision model made with Convolutional Neural Network for leaf disease identification | Python, Deep Learning, Computer Vision, Convolutional Neural Networks  |
-| 🧠 [Multilayer Perceptron](https://github.com/tentaclepurple/42_multilayer_perceptron) | Exploring Neural Networks with a Custom Implementation and Interactive Playground App | Python, Linear Algebra, Algorithms, Deep Learning, Data Visualization |
+| Name | Description | Skills |
+| ----------------------------------- | ------- | ------ |
+| [Ftl_Quantum](https://github.com/tentaclepurple/42_Ftl_quantum) | 🌌 Exploring Quantum Computing algorithms through the IBM Qiskit platform | Qiskit, Python, Quantum Computing, Jupyter, Mathematics |
+| [Matcha](https://github.com/tentaclepurple/42_matcha/) | 🍵 Social Network App featuring AI powered users that may start a relationship with you... | Python, Flask, MongoDB, Svelte, Backend, API REST, Postman, AI, Docker |
+| [Leaffliction](https://github.com/tentaclepurple/42_Leaffliction) | 👁️ Computer Vision model made with Convolutional Neural Network for leaf disease identification | Python, Deep Learning, Computer Vision, Convolutional Neural Networks  |
+| [Multilayer_Perceptron](https://github.com/tentaclepurple/42_multilayer_perceptron) | 🧠 Neural Network implementef from scratch | Python, Linear Algebra, Algorithms, Deep Learning, Data Visualization |
 
 
 ___
