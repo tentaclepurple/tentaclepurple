@@ -1,29 +1,19 @@
-# Project Sneak Peek
+## 🗞️ Project Sneak Peek
 
-### 🌌 [Ftl_Quantum](https://github.com/tentaclepurple/42_Ftl_quantum)
+| Project | Description | Skills |
+| ------- | ----------- | ------ |
+| 🌌 [Ftl_Quantum](https://github.com/tentaclepurple/42_Ftl_quantum) | Exploring Quantum Computing algorithms through the IBM Qiskit platform | Qiskit, Python, Quantum Computing, Jupyter, Mathematics |
+| 🍵 [Matcha](https://github.com/tentaclepurple/42_matcha/) | Social Network App made with Svelte, Flask, MongoDB and Docker featuring AI powered users that may start a relationship with you... | Python, Flask, MongoDB, Svelte, Backend, API REST, Postman, AI |
+| 👁️ [Leaffliction](https://github.com/tentaclepurple/42_Leaffliction) | Computer Vision model made with Convolutional Neural Network for leaf disease identification | Python, Deep Learning, Computer Vision, Convolutional Neural Networks  |
+| 🧠 [Multilayer Perceptron](https://github.com/tentaclepurple/42_multilayer_perceptron) | Exploring Neural Networks with a Custom Implementation and Interactive Playground App | Python, Linear Algebra, Algorithms, Deep Learning, Data Visualization |
 
-#### Exploring Quantum Computing algorithms through the IBM Qiskit platform
-<br>
-
-### 🍵 [Matcha](https://github.com/tentaclepurple/42_matcha/)
-
-#### Social Network App made with Svelte, Flask, MongoDB and Docker featuring AI powered users that may start a relationship with you...
-<br>
-
-### 👁️ [Leaffliction](https://github.com/tentaclepurple/42_Leaffliction)
-
-#### Computer Vision model made with Convolutional Neural Network for leaf disease identification
-<br>
-
-### 🧠 [Multilayer Perceptron](https://github.com/tentaclepurple/42_multilayer_perceptron)
-
-#### Exploring Neural Networks with a Custom Implementation and Interactive Playground App
-<br>
 
 ___
 <br>
 
-# Languages / Libraries / Frameworks
+## 🔧 My Stack
+
+### Languages / Libraries / Frameworks
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -49,10 +39,10 @@ ___
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" title="Gradio" alt="Gradio" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9XQLPuxuIi6Tvqhn635FRdDYAo-kqG9VV53e5IJerCSHdzMy6Ya-2LgBGA7zLyYs_ow&usqp=CAU" title="Gradio" alt="Gradio" width="40" height="40"/>&nbsp;
 <br>          
 
-# DataBases
+### DataBases
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="PostreSql" alt="PostgreSql" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
@@ -64,7 +54,7 @@ ___
   <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" title="SnowFlake" alt="SnowFlake" width="40" height="40"/>&nbsp;
 <br>     
 
-# Tools / Cloud
+### Tools / Cloud
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -81,13 +71,10 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="40" height="40"/>&nbsp;
-<br>    
+___
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tentaclepurple&hide_progress=true&theme=shadow_blue)
-<br>
-
-# 42 Common Core Projects
+## ⚛️ 42 Common Core Projects
 
 | | C | C++ | More |
 |---|:---|:--|:---|
@@ -101,10 +88,10 @@ ___
 | 7 | <!-- 7 C--> <p><a href="https://github.com/tentaclepurple/42_Get_next_line" >Get_next_line</a></p>  |  <!-- 5 CPP --> <p><a href="https://github.com/tentaclepurple/42_CPP07" >CPP07</a></p> | <!-- 7 more --> |
 | 8 | <!-- 8 C--> <p><a href="https://github.com/tentaclepurple/42_Minishell" >Minishell</a></p>  | <!-- 5 CPP --> <p><a href="https://github.com/tentaclepurple/42_CPP08" >CPP08</a></p> | <!-- 8 more --> |
 | 9 | <!-- 9 C--> <p><a href="https://github.com/tentaclepurple/42_Cub3d" >Cub3d</a></p>  | <!-- 5 CPP --> <p><a href="https://github.com/tentaclepurple/42_CPP09" >CPP09</a></p> | <!-- 9 more --> |
-
+___
 <br>
 
-# AI, Data and More
+## 💻 AI, Data and More
 
 | | Python | SQL | More |
 |---|:---|:--|:---|
@@ -131,8 +118,10 @@ ___
 | 20 |  <!-- PY --> <p><a href="https://github.com/tentaclepurple/PY_ML_car_insurances_pract" > ML car insurance </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |   <!-- more --> |
 | 21 | <!-- PY --> <p><a href="https://github.com/tentaclepurple/ML_reducing_traffic_prct" > ML reducing traffic mort pract </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |  <!-- more --> |
 | 22 | <!-- PY --> <p><a href="" >  </a></p>  | <!-- SQL --> <p><a href=" " > </a></p> |   <!-- more --> |
+___
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tentaclepurple&hide_progress=true&theme=shadow_blue)
 
 
 <!--
