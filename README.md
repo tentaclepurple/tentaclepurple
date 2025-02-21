@@ -2,6 +2,7 @@
 
 | Name | Description | Skills |
 | ----------------------------------- | ------- | ------ |
+| [Ft_Turing](https://github.com/tentaclepurple/42_ft_turing) | 🖥️ Simulate a Turing Machine. Foundations of computing | Scala, Docker | 
 | [Cloud-1](https://github.com/tentaclepurple/42_Cloud-1) | ☁️ Automatic deploy of a Wordpress/MySQL website in a cloud server | Ansible, Docker, Cloud, MySQL | 
 | [Ftl_Quantum](https://github.com/tentaclepurple/42_Ftl_quantum) | 🌌 Exploring Quantum Computing algorithms through the IBM Qiskit platform | Qiskit, Python, Quantum Computing, Jupyter, Mathematics |
 | [Matcha](https://github.com/tentaclepurple/42_matcha/) | 🍵 Social Network App featuring AI powered users that may start a relationship with you... | Python, Flask, MongoDB, Svelte, API REST, Postman, AI, Docker |
