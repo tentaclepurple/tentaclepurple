@@ -35,8 +35,6 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" title="Spark" alt="Spark" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
   <img src="https://cdn.prod.website-files.com/62038ffc9cd2db4558e3c7b7/623b44a1913c46041e39c836_kafka.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
-  
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
@@ -47,7 +45,7 @@ ___
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9XQLPuxuIi6Tvqhn635FRdDYAo-kqG9VV53e5IJerCSHdzMy6Ya-2LgBGA7zLyYs_ow&usqp=CAU" title="Gradio" alt="Gradio" width="40" height="40"/>&nbsp;
+  <img src="https://silver-big-wren-685.mypinata.cloud/ipfs/bafkreiez73c4iounkqfzg6ti6heuddqqd7e5udaokrwx5uo77gdd6yutsm" title="Gradio" alt="Gradio" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <br>          
 
