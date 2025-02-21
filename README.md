@@ -67,14 +67,10 @@ ___
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" title="s3" alt="s3" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" title="BigQuery" alt="BigQuery" width="40" height="40"/>&nbsp;
   <img src="https://d3bql97l1ytoxn.cloudfront.net/app_resources/419559/thumbs_112/img1372224020952674147-2x.png" title="Google Cloud Storage" alt="Google Cloud Storage" width="40" height="40"/>&nbsp;
-  <img src="https://intellifysolutions.com/wp-content/uploads/2023/08/Azure-Synapse-Analytics-1.png" alt="Azure Synapse Analytics" width="40" height="40"/>&nbsp;
-  
-  <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" title="SnowFlake" alt="SnowFlake" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" title="SnowFlake" alt="SnowFlake" width="40" height="40"/>&nbsp;
+  <img src="https://silver-big-wren-685.mypinata.cloud/ipfs/bafkreiaks6rl5ilnr2vhou77fcdarkg3y4vjjyqmr3w5anrullqd33eldm" title="Azure Synapse Analytics" alt="Azure Synapse Analytics" width="40" height="40"/>&nbsp;
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9SnwzN95PZJXFnC6_aW3PMfrOGpJC6HWBmg1ac_jbOihsDZMrUpKtOXEDVV7iz20QbZ7gZ71MtQubFAIHvIVlqZLfI1lJ8_H4nW-8BpfEqa32_P2fcZYtGFOxABvjQeX5kTUFnfjIzACv/s1600/azuredatalake.png" title="Azure Data Lake Storage" alt="Azure Data Lake Storage" width="40" height="40"/>&nbsp;
+  <img src="https://symbols.getvecta.com/stencil_27/86_storage-blob.476c91d0b1.png" title="Azure Blob Storage" alt="Azure Blob Storage" width="40" height="40"/>&nbsp;
   <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" title="Microsoft Fabric" alt="Microsoft Fabric" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" title="SnowFlake" alt="SnowFlake" width="40" height="40"/>&nbsp;
-
-  
 <br>     
 
 ### Tools / Cloud
