@@ -60,7 +60,21 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
   <img src="https://www.stackhero.io/assets/src/images/servicesLogos/influxdb.svg?a83b057d" title="InfluxDB" alt="InfluxDB" width="40" height="40"/>&nbsp;
   <img src="https://www.dropbox.com/scl/fi/aik0ohzvqiv265d837dkl/neo4j.png?rlkey=y2r9gkcm4h83wgz77a1vdlmbe&raw=1" title="Neo4j" alt="Neo4j" width="40" height="40"/>&nbsp;
+
   <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" title="SnowFlake" alt="SnowFlake" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.prod.website-files.com/625447c67b621ab49bb7e3e5/65529875c4931bef249126a7_16002836894132567677717491881160%5B1%5D.png" title="Databricks" alt="Databricks" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-redshift-logo.svg" title="RedShift" alt="RedShift" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" title="s3" alt="s3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" title="BigQuery" alt="BigQuery" width="40" height="40"/>&nbsp;
+  <img src="https://d3bql97l1ytoxn.cloudfront.net/app_resources/419559/thumbs_112/img1372224020952674147-2x.png" title="Google Cloud Storage" alt="Google Cloud Storage" width="40" height="40"/>&nbsp;
+  <img src="https://intellifysolutions.com/wp-content/uploads/2023/08/Azure-Synapse-Analytics-1.png" alt="Azure Synapse Analytics" width="40" height="40"/>&nbsp;
+  
+  <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" title="SnowFlake" alt="SnowFlake" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" title="SnowFlake" alt="SnowFlake" width="40" height="40"/>&nbsp;
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Microsoft_Fabric_2023.svg/revision/latest?cb=20230528223239" title="Microsoft Fabric" alt="Microsoft Fabric" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/6453780?s=200&v=4" title="SnowFlake" alt="SnowFlake" width="40" height="40"/>&nbsp;
+
+  
 <br>     
 
 ### Tools / Cloud
@@ -73,7 +87,7 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="40" height="40"/>&nbsp;
 
             
